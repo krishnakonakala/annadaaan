@@ -1,0 +1,6 @@
+{
+  "name": "ANNADAAN — Intelligent Food Rescue & Redistribution Platform",
+  "description": "Enterprise-grade food rescue ecosystem connecting surplus food from restaurants and individuals to verified NGOs with real-time matching, tracking, and impact analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
